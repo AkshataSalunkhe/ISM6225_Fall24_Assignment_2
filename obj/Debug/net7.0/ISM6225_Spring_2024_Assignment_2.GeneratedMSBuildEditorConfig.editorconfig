@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ISM6225_Spring_2024_Assignment_2
+build_property.ProjectDir = C:\Users\salun\OneDrive\Desktop\Study\Sem IV\DIS\Assignment 2\ISM6225_Fall24_Assignment_2\ISM6225_Spring_2024_Assignment_2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
